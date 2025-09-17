@@ -39,7 +39,7 @@ The aim is to help financial institutions assess creditworthiness effectively.
 
 Clone the repo:
 
-git clone https://github.com/your-username/credit-score-prediction.git
+git clone https://github.com/Aryan01-coder/PaisaBazar-Credit-Score-Analysis
 
 
 Navigate to project folder:
